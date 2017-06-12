@@ -1,1 +1,5 @@
-# Chatbot_using_Python_and_TensorFlow
+# Chatbot using Python and TensorFlow
+
+I recommend using the Python IDE [PyCharm](https://www.jetbrains.com/pycharm/) to run this application.
+
+![alt text](https://raw.githubusercontent.com/heitorb/Chatbot_using_Python_and_TensorFlow/master/python.jpg) ![alt text](https://raw.githubusercontent.com/heitorb/Chatbot_using_Python_and_TensorFlow/master/tensorflow.jpg)
